@@ -1,7 +1,7 @@
 # Title 1
 
 - item 1
-- tiem 2
+- item 2
 - item 3
 
 -----
